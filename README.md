@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'll be making cool open-source projects for anyone to use.
 
 <!--
 **DuckFlutter/DuckFlutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
